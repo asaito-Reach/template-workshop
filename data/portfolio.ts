@@ -2,8 +2,8 @@
 
 export const profile = {
   name: "斎藤　彩",
-  role: "あなたの肩書き（例：Webエンジニア）",
-  bio: "自己紹介文をここに書いてください。経歴や興味のある分野など、自由に書きましょう。",
+  role: "webデザイナー",
+  bio: "/STUDIO勉強中です。",
   avatarUrl: "/images/avatar.jpg", // public/images/ に画像を置いてパスを指定
 };
 
