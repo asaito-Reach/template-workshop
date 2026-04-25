@@ -3,7 +3,7 @@
 export const profile = {
   name: "斎藤　彩",
   role: "webデザイナー",
-  bio: "/STUDIO勉強中です。",
+  bio: "「/STUDIO」勉強中です。",
   avatarUrl: "/images/avatar.jpg", // public/images/ に画像を置いてパスを指定
 };
 
