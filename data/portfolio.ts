@@ -8,10 +8,9 @@ export const profile = {
 };
 
 export const skills = [
-  { name: "JavaScript", level: "学習中" },
-  { name: "React", level: "学習中" },
-  { name: "TypeScript", level: "学習中" },
-  { name: "Next.js", level: "学習中" },
+  { name: "Figma", level: "学習中" },
+  { name: "/STUDIO", level: "学習中" },
+  { name: "Git", level: "学習中" },
   // 追加・削除してOK
 ];
 
